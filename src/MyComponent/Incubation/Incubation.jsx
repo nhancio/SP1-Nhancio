@@ -1,7 +1,7 @@
 import React from "react";
 import "./Incubation.css";
 import logo from './Images/t-hub-logo.png'
-import { Link } from "react-router-dom";
+
 const Incubation = () => {
   return (
     <section className="Incubation" id="Contact">
